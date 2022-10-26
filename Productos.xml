@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE productos SYSTEM "ReglaProductos.dtd">
+<productos>
+    <producto>
+        <raton>
+            <codigo>Nk209</codigo>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>RT508</codigo>
+            <descripcion>QWERTY</descripcion>
+        </teclado>
+    </producto>
+    <producto>
+        <monitor>
+            <codigo>RT508</codigo>
+            <nombre>Samsung</nombre>
+            <descripcion>22 pulgadas</descripcion>
+        </monitor>
+    </producto>
+</productos>
